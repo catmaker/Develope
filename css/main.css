@@ -17,6 +17,7 @@ body {
   color: white;
   text-align: center;
   position: fixed;
+  z-index: 100;
 }
 .main-nav {
   display: grid;
@@ -46,4 +47,21 @@ body {
 }
 .main-nav-imgBox > img {
   width: 3.7rem;
+}
+.main {
+  width: 100vw;
+  height: 1000px;
+  position: relative; /* position을 relative로 설정 */
+}
+.main > p {
+  position: absolute;
+  top: 20%;
+  right: 45%;
+  color: white;
+  font-size: 5rem;
+  text-align: center;
+}
+.main > img {
+  width: 1920px;
+  height: 100%;
 }
