@@ -1,0 +1,44 @@
+@font-face {
+  font-family: "NotoSans-Black";
+  src: url("../font/NotoSans-Black.ttf");
+}
+@font-face {
+  font-family: "NotoSans-Bold";
+  src: url("../font/NotoSans-Bold.ttf");
+}
+@font-face {
+  font-family: "NotoSans-SemiBold";
+  src: url("../font/NotoSans-SemiBold.ttf");
+}
+@font-face {
+  font-family: "NotoSans-Thin";
+  src: url("../font/NotoSans-Thin.ttf");
+}
+@font-face {
+  font-family: "NotoSans-Regular";
+  src: url("../font/NotoSans-Regular.ttf");
+}
+@font-face {
+  font-family: "NotoSans-KR-Regular";
+  src: url("/font/NotoSansKR-Regular.ttf");
+}
+@font-face {
+  font-family: "NanumSquare-Light";
+  src: url("/font/NanumSquareNeo-aLt.ttf");
+}
+@font-face {
+  font-family: "NanumSquare-Regular";
+  src: url("/font/NanumSquareNeo-bRg.ttf");
+}
+@font-face {
+  font-family: "NanumSquare-Bold";
+  src: url("/font/NanumSquareNeo-cBd.ttf");
+}
+@font-face {
+  font-family: "NanumSquare-ExtraBold";
+  src: url("/font/NanumSquareNeo-dEb.ttf");
+}
+@font-face {
+  font-family: "NanumSquare-Heavy";
+  src: url("/font/NanumSquareNeo-eHv.ttf");
+}
